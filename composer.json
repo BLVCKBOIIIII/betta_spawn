@@ -1,0 +1,11 @@
+{
+    "name": "spawnos/betta-suite",
+    "description": "SpawnOS - Adaptive Liquid Glass UI & Betta Breeding Suite",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
